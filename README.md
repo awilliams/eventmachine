@@ -1,3 +1,5 @@
+This particular fork is used with [Ruby OpenWrt](https://github.com/awilliams/ruby-openwrt)
+
 # About EventMachine #
 
 
